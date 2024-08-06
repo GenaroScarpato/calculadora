@@ -1,0 +1,14 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+#visor{
+    border: solid 2px black;
+    background-color: #888;
+    font-family: monospace;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 10px;
+}
