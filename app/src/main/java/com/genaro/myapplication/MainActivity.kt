@@ -90,7 +90,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-
     private fun addMarkerAtPoint(point: GeoPoint) {
         val marker = Marker(binding.mapView)
         marker.position = point
